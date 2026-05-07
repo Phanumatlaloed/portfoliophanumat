@@ -97,7 +97,6 @@ const skills = [
   "Python",
   "Django",
   "React",
-  "Vue.js",
   "MySQL",
   "MongoDB",
   "SQLite",
